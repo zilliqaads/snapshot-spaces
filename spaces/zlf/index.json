@@ -1,0 +1,23 @@
+{
+  "token": "zil1r9dcsrya4ynuxnzaznu00e6hh3kpt7vhvzgva0",
+  "name": "ZilFlip.com Shareholder Token",
+  "network": "mainnet",
+  "symbol": "ZLF",
+  "strategies": [
+    {
+      "name": "zrc2-balance-of",
+      "params": {
+        "address": "zil1r9dcsrya4ynuxnzaznu00e6hh3kpt7vhvzgva0",
+        "symbol": "ZLF",
+        "decimals": 5
+      }
+    }
+  ],
+  "members": [
+    "zil16s2869hqf597mmxpnwg3p76mlpzg44686uafcl"
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 0
+  }
+}

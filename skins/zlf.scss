@@ -1,0 +1,16 @@
+.zlf {
+  --primary-color: #e0ae46;
+  --bg-color: #ffffff;
+  --text-color: #484848;
+  --link-color: #000;
+  --heading-color: #000;
+  --border-color: hsla(0,0%,100%,0.2);
+  --header-bg: rgba(224,174,70,1);
+  --block-bg: transparent;
+
+  .zlf #topnav {
+    border-bottom: 4px solid black !important;
+    border-image-slice: 1;
+    border-image-source: linear-gradient(to left, #e0ae46, #bb5a00);
+  }
+}
