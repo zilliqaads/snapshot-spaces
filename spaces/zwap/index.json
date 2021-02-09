@@ -1,20 +1,20 @@
 {
-  "token": "zil1l0g8u6f9g0fsvjuu74ctyla2hltefrdyt7k5f4",
-  "name": "ZilPay wallet",
+  "token": "zil1p5suryq6q647usxczale29cu3336hhp376c627",
+  "name": "Zilswap",
   "network": "mainnet",
-  "symbol": "ZLP",
+  "symbol": "ZWAP",
   "strategies": [
     {
       "name": "zrc2-balance-of",
       "params": {
-        "address": "zil1l0g8u6f9g0fsvjuu74ctyla2hltefrdyt7k5f4",
-        "symbol": "ZLP",
-        "decimals": 18
+        "address": "zil1p5suryq6q647usxczale29cu3336hhp376c627",
+        "symbol": "ZWAP",
+        "decimals": 12
       }
     }
   ],
   "members": [
-    "zil1wl38cwww2u3g8wzgutxlxtxwwc0rf7jf27zace"
+    "zil1ytk3ykwlc2vy8fyp7wqp492zjassj5mxzgscv6"
   ],
   "filters": {
     "defaultTab": "core",
