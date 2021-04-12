@@ -1,5 +1,4 @@
 {
-  "token": "zil18f5rlhqz9vndw4w8p60d0n7vg3n9sqvta7n6t2",
   "name": "Governance PORT",
   "network": "mainnet",
   "symbol": "PORT",
@@ -20,7 +19,7 @@
   ],
   "filters": {
     "invalids": ["zil1s7lfhje2q52ul4sk5a7nztv6fe5y44c7z6jna9", "zil1xlqwglrgr336rss9te4gwg2gy6frr4r2ymzwx8", "zil1t8kjnnxqlmdzw0fvs902q3gvqx867r8tktkjqc"],
-    "defaultTab": "core",
+    "defaultTab": "all",
     "minScore": 0,
     "onlyMembers": true
   }
