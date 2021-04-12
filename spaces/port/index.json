@@ -20,6 +20,7 @@
   ],
   "filters": {
     "defaultTab": "core",
-    "minScore": 0
+    "minScore": 0,
+    "onlyMembers": true
   }
 }
