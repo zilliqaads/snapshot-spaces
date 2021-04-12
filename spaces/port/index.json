@@ -19,6 +19,7 @@
     "zil1ddyrhfcgkc6gd9t9f8hvdvhut5xvvfpn85n8yd"
   ],
   "filters": {
+    "invalids": ["zil1s7lfhje2q52ul4sk5a7nztv6fe5y44c7z6jna9", "zil1xlqwglrgr336rss9te4gwg2gy6frr4r2ymzwx8", "zil1t8kjnnxqlmdzw0fvs902q3gvqx867r8tktkjqc"],
     "defaultTab": "core",
     "minScore": 0,
     "onlyMembers": true
