@@ -1,0 +1,26 @@
+{
+    "token": "zil12drvflckms6874ffuujcdxj75raavl4yfn4ssc",
+    "name": "Review Capital",
+    "network": "mainnet",
+    "symbol": "RECAP",
+    "strategies": [
+      {
+        "name": "zrc2-balance-of",
+        "params": {
+          "address": "zil12drvflckms6874ffuujcdxj75raavl4yfn4ssc",
+          "symbol": "RECAP",
+          "decimals": 12
+        }
+      }
+    ],
+    "members": [
+      "zil1vqvh89p856wkll8v8jgajhsm4xf3m5wkqaafz2",
+      "zil13q3adkjyy5am52ewjwdguefxjex9zum4dzl2a0",
+      "zil1dhdj3mwrfxcwyflv5mrukgr3mu4395l5gkxac7",
+      "zil1l0reklcjgqg70fvx2ljjhe7u3qqmy98jt5aymq"
+    ],
+    "filters": {
+      "defaultTab": "core",
+      "minScore": 0
+    }
+  }
