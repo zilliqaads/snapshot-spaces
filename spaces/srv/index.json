@@ -1,0 +1,24 @@
+{
+  "token": "zil168qdlq4xsua6ac9hugzntqyasf8gs7aund882v",
+  "name": "zilSurvey",
+  "network": "mainnet",
+  "symbol": "SRV",
+  "strategies": [
+    {
+      "name": "zrc2-balance-of",
+      "params": {
+        "address": "zil168qdlq4xsua6ac9hugzntqyasf8gs7aund882v",
+        "symbol": "SRV",
+        "decimals": 2
+      }
+    }
+  ],
+  "members": [
+    "zil1rehtqwzgawn88rfje4x4uk4ryacal8atkf0qdg",
+    "zil1m8avd6tqp68nv5j2mapst4kg8h5ms5v8elh9q2"
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 0
+  }
+}
