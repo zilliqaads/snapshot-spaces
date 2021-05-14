@@ -1,0 +1,23 @@
+{
+  "token": "zil1w5hwupgc9rxyuyd742g2c9annwahugrx80fw9h",
+  "name": "The GARY Token",
+  "network": "mainnet",
+  "symbol": "GARY",
+  "strategies": [
+    {
+      "name": "zrc2-balance-of",
+      "params": {
+        "address": "zil1w5hwupgc9rxyuyd742g2c9annwahugrx80fw9h",
+        "symbol": "GARY",
+        "decimals": 4
+      }
+    }
+  ],
+  "members": [
+    "zil1ly6pesvgp33ell3273vqu3y7f00e8dazt278tc"
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 0
+  }
+}
