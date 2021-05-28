@@ -1,0 +1,17 @@
+.port {
+  --primary-color: #0065FF;
+  --bg-color: #FFFFFF;
+  --text-color: #172B4D;
+  --link-color: #0065FF;
+  --heading-color: #172B4D;
+  --border-color: #DFE1E6;
+  --header-bg: #FFFFFF;
+}
+
+@media (prefers-color-scheme: dark) {
+  .port {
+  }
+
+  .Counter {
+  }
+}
