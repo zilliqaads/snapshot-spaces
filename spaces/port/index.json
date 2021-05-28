@@ -19,7 +19,7 @@
     "zil1ddyrhfcgkc6gd9t9f8hvdvhut5xvvfpn85n8yd"
   ],
   "filters": {
-    "defaultTab": "all",
+    "defaultTab": "core",
     "minScore": 1000,
     "onlyMembers": true
   }
