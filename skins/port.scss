@@ -10,8 +10,16 @@
 
 @media (prefers-color-scheme: dark) {
   .port {
+    --primary-color: #0065FF;
+    --bg-color: #121212;
+    --text-color: #FFFFFF;
+    --link-color: #0065FF;
+    --heading-color: #FFFFFF;
+    --border-color: #2E2E2E;
+    --header-bg: #2E2E2E;
   }
 
   .Counter {
+    color: black;
   }
 }
