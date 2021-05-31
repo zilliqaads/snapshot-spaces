@@ -1,0 +1,28 @@
+.duck {
+    --primary-color: #ffffff;
+    --bg-color: #6f527f;
+    --text-color: #ffffff;
+    --link-color: #000;
+    --heading-color: #000;
+    --border-color: hsla(0,0%,100%,0.2);
+    --header-bg: #4d94ca;
+    --block-bg: transparent;
+  }
+  
+  @media (prefers-color-scheme: dark) {
+    .duck {
+    --primary-color: #ffffff;
+    --bg-color: #6f527f;
+    --text-color: #ffffff;
+    --link-color: #000;
+    --heading-color: #000;
+    --border-color: hsla(0,0%,100%,0.2);
+    --header-bg: #4d94ca;
+    --block-bg: transparent;
+    }
+  
+    .Counter {
+      color: black;
+    }
+  }
+  
