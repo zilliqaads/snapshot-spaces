@@ -18,6 +18,6 @@
   ],
   "filters": {
     "defaultTab": "core",
-    "minScore": 0
+    "minScore": 1
   }
 }
