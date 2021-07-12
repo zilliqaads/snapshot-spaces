@@ -1,0 +1,25 @@
+{
+    "token": "zil1xswavlggsqmkd9kddcp0ulceqm9ht36gqkt8ua",
+    "name": "ZilWall",
+    "network": "mainnet",
+    "symbol": "ZWALL",
+    "strategies": [
+      {
+        "name": "zrc2-balance-of",
+        "params": {
+          "address": "zil1xswavlggsqmkd9kddcp0ulceqm9ht36gqkt8ua",
+          "symbol": "ZWALL",
+          "decimals": 12
+        }
+      }
+    ],
+    "members": [
+      "zil1h6cwq45venl0tdtkw3759jhgk9yf8w0t3mlv8z", 
+      "zil1nslmnpt7k8x5h03x4y5znz9lajuzutevcts3wy",
+      "zil1nrh69xg03zkwy3j7rjfrrn9w8297aq27fpmwjp"
+    ],
+    "filters": {
+      "defaultTab": "core",
+      "minScore": 42
+    }
+  }
