@@ -1,22 +1,23 @@
-    "token": "zil1s8xzysqcxva2x6aducncv9um3zxr36way3fx9g",
-    "name": "ZilChess",
-    "network": "mainnet",
-    "symbol": "ZCH",
-    "strategies": [
-      {
-        "name": "zrc2-balance-of",
-        "params": {
-          "address": "zil1s8xzysqcxva2x6aducncv9um3zxr36way3fx9g",
-          "symbol": "ZCH",
-          "decimals": 6
-        }
+{
+  "token": "zil1s8xzysqcxva2x6aducncv9um3zxr36way3fx9g",
+  "name": "ZilChess",
+  "network": "mainnet",
+  "symbol": "ZCH",
+  "strategies": [
+    {
+      "name": "zrc2-balance-of",
+      "params": {
+        "address": "zil1s8xzysqcxva2x6aducncv9um3zxr36way3fx9g",
+        "symbol": "ZCH",
+        "decimals": 6
       }
-    ],
-    "members": [
-      "zil1fuacrtr9x0e8z6u5kwxcuy7tmx2xfnlkhh4537	"
-    ],
-    "filters": {
-      "defaultTab": "core",
-      "minScore": 0
     }
+  ],
+  "members": [
+    "zil1fuacrtr9x0e8z6u5kwxcuy7tmx2xfnlkhh4537	"
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 0
   }
+}
