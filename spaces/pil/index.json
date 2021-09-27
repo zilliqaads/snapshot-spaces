@@ -14,13 +14,10 @@
       }
     ],
     "members": [
-      "zil1yuql5kk4k52h884yjs0dyz5rgavtk88mesqeds",
-      "zil1d36l2vd46k6j3hw4dv0dslgrt85qhauk0vzppy",
-      "zil1sdltdpgtkws3wt4efd2hwchywj5wntrnvpasll"
     ],
     "filters": {
       "defaultTab": "core",
-      "minScore": 0
+      "minScore": 30
     }
   }
   
