@@ -1,5 +1,5 @@
 {
-    "token": "zil14pzuzq6v6pmmmrfjhczywguu0e97djepxt8g3e",
+    "token": "zil1gufj8f43gyar536q55ju4hauetgk4tc4qqtl83",
     "name": "Pillar Governance",
     "network": "mainnet",
     "symbol": "gZIL",
@@ -7,7 +7,7 @@
       {
         "name": "zrc2-balance-of",
         "params": {
-          "address": "zil14pzuzq6v6pmmmrfjhczywguu0e97djepxt8g3e",
+          "address": "zil1gufj8f43gyar536q55ju4hauetgk4tc4qqtl83",
           "symbol": "gZIL",
           "decimals": 15
         }
