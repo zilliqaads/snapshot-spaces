@@ -1,0 +1,25 @@
+.pele {
+    --primary-color: #00fff0;
+    --bg-color: #122;
+    --text-color: #FFFFFF;
+    --link-color: #00fff0;
+    --heading-color: #FFFFFF;
+    --border-color: #122;
+    --header-bg: #3e605f;
+}
+
+@media (prefers-color-scheme: dark) {
+  .pele {
+    --primary-color: #00fff0;
+    --bg-color: #122;
+    --text-color: #FFFFFF;
+    --link-color: #00fff0;
+    --heading-color: #FFFFFF;
+    --border-color: #122;
+    --header-bg: #3e605f;
+  }
+
+  .Counter {
+    color: white;
+  }
+}

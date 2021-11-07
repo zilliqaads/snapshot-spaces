@@ -1,0 +1,24 @@
+{
+  "token": "zil12htx8pdfwk39e47fhd7t3vd3rftyxeuf9px354",
+  "name": "PELE Network Governance",
+  "network": "mainnet",
+  "symbol": "PELE",
+  "strategies": [
+    {
+      "name": "zrc2-balance-of",
+      "params": {
+        "address": "zil12htx8pdfwk39e47fhd7t3vd3rftyxeuf9px354",
+        "symbol": "PELE",
+        "decimals": 5
+      }
+    }
+  ],
+  "members": [
+    "zil1ga066xp7pjj470g9clu5ymjx8axwqgtqsgcnsg"
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 1000,
+    "onlyMembers": false
+  }
+}
