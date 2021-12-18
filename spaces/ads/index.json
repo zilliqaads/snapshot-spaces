@@ -1,0 +1,27 @@
+{
+    "token": "zil1cs2au702hcx779yxdg49txjqe7rn989rty3wwy",
+    "name": "ZilAds",
+    "network": "mainnet",
+    "symbol": "ADS",
+    "strategies": [
+      {
+        "name": "zrc2-balance-of",
+        "params": {
+          "address": "zil1cs2au702hcx779yxdg49txjqe7rn989rty3wwy",
+          "symbol": "ADS",
+          "decimals": 6
+        }
+      }
+    ],
+    "members": [
+      "zil188zg6zs8r2f2u053tdt3mw7csdpptgwzx7knzm", 
+      "zil1ssxuzxf4phchne7gc7sth9t2mg2vu98dyscda4",
+      "zil1hfpdlzrjq467c080jcqpputzdx2vvccemq043f",
+      "zil1t9mgdcg78ek0hk852x25q84gpyd6ankl4jmret",
+      "zil1vr0jqk83na6hqpvwrhkj0qqzt4k7xpkdv9swew"
+    ],
+    "filters": {
+      "defaultTab": "core",
+      "minScore": 100
+    }
+  }
